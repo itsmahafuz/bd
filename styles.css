@@ -1,0 +1,62 @@
+
+        body{
+            background-color: antiquewhite;
+        }
+        h1{
+            text-align: center;
+            margin-top: 18px;
+           font-size: 100px;
+           font-style: italic;
+        }
+        .day{
+            text-align: center;
+            margin-top: 0;
+        }
+        h2{
+            margin-top: 0px;
+            text-align: center;
+            font-size: 100px;
+            font-style: italic;
+        }
+        p{
+            text-align: center;
+            font-size: 25px;
+            
+        }
+        .cat{
+            margin-left: 25%;
+            height:400px;
+        }
+        .logo{
+            height: 30px;
+            margin-left: 49%;
+
+        }
+        div{
+            
+            height: 600px;
+            width: 600px;
+        }
+        .d2{
+            text-align: center;
+            height: 600px;
+            width: 600px;
+            margin-left: 600px;
+        }
+        img{
+            height: 500px;
+           
+        }
+        .x{
+            text-align: left;
+        }
+        .date{
+            font-size: large;
+           text-align: left;
+        }
+        .t{
+            text-align: center;
+            font-size: 25px;
+            color: darkblue;
+            background-color: yellow;
+        }
